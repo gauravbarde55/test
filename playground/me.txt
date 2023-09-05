@@ -1,0 +1,4 @@
+{{#user}}
+Name: Ritesh
+Skills: HTML, CSS, JS, NEXT.js
+{{/user}}
